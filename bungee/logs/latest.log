@@ -58,3 +58,115 @@
 [10:58:45] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54946]: Logged in as 'Entity_30331'
 [10:58:45] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54946|Entity_30331] -> UpstreamBridge has connected
 [10:58:45] [Netty Worker IO Thread #1/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:54946] <-> ServerConnector [lobby] has connected
+[11:16:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54946|Entity_30331] -> UpstreamBridge has disconnected
+[11:16:01] [Netty Worker IO Thread #1/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[11:16:01] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54946|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:16:09] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[11:16:09] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[11:16:09] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[11:16:09] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[11:16:09] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[11:16:09] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[11:16:09] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[11:16:09] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[11:16:09] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[11:16:09] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[11:16:09] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:73)
+[11:16:09] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[11:16:09] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[11:16:09] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
+[11:16:09] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:231)
+[11:16:09] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[11:16:09] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[11:16:09] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[11:16:09] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[11:16:09] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[11:16:09] [main/ERROR]: 	... 10 more
+[11:16:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42578]: Connected via websocket
+[11:16:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42578]: Origin header is https://pc.jugarmc.com
+[11:16:13] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42578]: Logged in as 'Entity_30331'
+[11:16:13] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42578|Entity_30331] -> UpstreamBridge has connected
+[11:16:13] [Netty Worker IO Thread #3/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:42578] <-> ServerConnector [lobby] has connected
+[11:16:15] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42578|Entity_30331] -> UpstreamBridge has disconnected
+[11:16:15] [Netty Worker IO Thread #3/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[11:16:15] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:42578|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:18:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39924]: Connected via websocket
+[11:18:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39924]: Origin header is https://pc.jugarmc.com
+[11:18:58] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39924]: Logged in as 'Entity_30331'
+[11:18:58] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39924|Entity_30331] -> UpstreamBridge has connected
+[11:18:58] [Netty Worker IO Thread #1/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:39924] <-> ServerConnector [lobby] has connected
+[11:19:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39924|Entity_30331] -> UpstreamBridge has disconnected
+[11:19:44] [Netty Worker IO Thread #1/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[11:19:44] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:39924|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:20:00] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51020]: Connected via websocket
+[11:20:00] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51020]: Origin header is https://pc.jugarmc.com
+[11:20:00] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51020]: Logged in as 'Entity_30331'
+[11:20:00] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51020|Entity_30331] -> UpstreamBridge has connected
+[11:20:00] [Netty Worker IO Thread #2/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:51020] <-> ServerConnector [lobby] has connected
+[11:49:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51020|Entity_30331] -> UpstreamBridge has disconnected
+[11:49:33] [Netty Worker IO Thread #2/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[11:49:33] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:51020|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:51:17] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Connected via websocket
+[11:51:17] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Origin header is https://pc.jugarmc.com
+[11:51:17] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48034]: Logged in as 'Entity_30331'
+[11:51:17] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Entity_30331] -> UpstreamBridge has connected
+[11:51:17] [Netty Worker IO Thread #0/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:48034] <-> ServerConnector [lobby] has connected
+[11:55:14] [Netty Worker IO Thread #0/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[11:55:14] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:55:14] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48034|Entity_30331] -> UpstreamBridge has disconnected
+[11:58:20] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45868]: Connected via websocket
+[11:58:20] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45868]: Origin header is https://pc.jugarmc.com
+[11:58:20] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45868]: Logged in as 'Entity_30331'
+[11:58:20] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45868|Entity_30331] -> UpstreamBridge has connected
+[11:58:20] [Netty Worker IO Thread #1/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:45868] <-> ServerConnector [lobby] has connected
+[12:00:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45868|Entity_30331] -> UpstreamBridge has disconnected
+[12:00:55] [Netty Worker IO Thread #1/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[12:00:55] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45868|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[12:02:38] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33952]: Connected via websocket
+[12:02:38] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33952]: Origin header is https://pc.jugarmc.com
+[12:02:39] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33952]: Logged in as 'Entity_30331'
+[12:02:39] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:33952|Entity_30331] -> UpstreamBridge has connected
+[12:02:39] [Netty Worker IO Thread #3/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:33952] <-> ServerConnector [lobby] has connected
+[12:05:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:33952|Entity_30331] -> UpstreamBridge has disconnected
+[12:05:40] [Netty Worker IO Thread #3/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[12:05:40] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:33952|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[12:27:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33508]: Connected via websocket
+[12:27:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33508]: Origin header is https://pc.jugarmc.com
+[12:27:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:33508]: Logged in as 'Entity_30331'
+[12:27:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33508|Entity_30331] -> UpstreamBridge has connected
+[12:27:59] [Netty Worker IO Thread #0/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:33508] <-> ServerConnector [lobby] has connected
+[12:32:52] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33508|Entity_30331] -> UpstreamBridge has disconnected
+[12:32:52] [Netty Worker IO Thread #0/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[12:32:52] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:33508|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[12:49:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54132]: Connected via websocket
+[12:49:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54132]: Origin header is https://pc.jugarmc.com
+[12:49:50] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54132]: Logged in as 'Entity_30331'
+[12:49:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54132|Entity_30331] -> UpstreamBridge has connected
+[12:49:50] [Netty Worker IO Thread #2/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:54132] <-> ServerConnector [lobby] has connected
+[12:59:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54132|Entity_30331] -> UpstreamBridge has disconnected
+[12:59:04] [Netty Worker IO Thread #2/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[12:59:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:54132|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:11:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59712]: Connected via websocket
+[13:11:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59712]: Origin header is https://pc.jugarmc.com
+[13:11:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59712]: Logged in as 'Entity_30331'
+[13:11:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59712|Entity_30331] -> UpstreamBridge has connected
+[13:11:52] [Netty Worker IO Thread #3/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:59712] <-> ServerConnector [lobby] has connected
+[13:12:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59712|Entity_30331] -> UpstreamBridge has disconnected
+[13:12:00] [Netty Worker IO Thread #3/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[13:12:00] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:59712|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:10:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34756]: Connected via websocket
+[16:10:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34756]: Origin header is https://pc.jugarmc.com
+[16:10:27] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34756]: Logged in as '6__Entity_3033'
+[16:10:27] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34756|6__Entity_3033] -> UpstreamBridge has connected
+[16:10:27] [Netty Worker IO Thread #0/INFO]: [6__Entity_3033|/[0:0:0:0:0:0:0:1%0]:34756] <-> ServerConnector [lobby] has connected
+[16:10:58] [Netty Worker IO Thread #0/INFO]: [6__Entity_3033] disconnected with: Login timed out!
+[16:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34756|6__Entity_3033] -> UpstreamBridge has disconnected
+[16:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:34756|6__Entity_3033] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:11:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60798]: Connected via websocket
+[16:11:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60798]: Origin header is https://pc.jugarmc.com
+[16:11:11] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:60798]: Logged in as 'Entity_30331'
+[16:11:11] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60798|Entity_30331] -> UpstreamBridge has connected
+[16:11:11] [Netty Worker IO Thread #2/INFO]: [Entity_30331|/[0:0:0:0:0:0:0:1%0]:60798] <-> ServerConnector [lobby] has connected
+[16:15:54] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60798|Entity_30331] -> UpstreamBridge has disconnected
+[16:15:54] [Netty Worker IO Thread #2/INFO]: [Entity_30331] disconnected with: Proxy lost connection to server.
+[16:15:54] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60798|Entity_30331] <-> DownstreamBridge <-> [lobby] has disconnected

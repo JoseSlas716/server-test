@@ -238,3 +238,63 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 [11:03:03] [Server thread/INFO]: Entity_30331 issued server command: /job
 [11:03:17] [Server thread/INFO]: Entity_30331 issued server command: /time set day
 [11:10:44] [Server thread/INFO]: Entity_30331 issued server command: /kill @e
+[11:16:01] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[11:16:01] [Server thread/INFO]: Entity_30331 left the game.
+[11:16:13] [Thread-9/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[11:16:13] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:46686] logged in with entity id 89731 at ([world]100.45208415623907, 76.00495173868461, 137.73487644218835)
+[11:16:15] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[11:16:15] [Server thread/INFO]: Entity_30331 left the game.
+[11:18:58] [Thread-10/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[11:18:58] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:35284] logged in with entity id 89985 at ([world]100.89798575138614, 76.00495173868461, 137.71661904793257)
+[11:19:14] [Server thread/INFO]: Entity_30331 issued server command: /time set day
+[11:19:44] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[11:19:44] [Server thread/INFO]: Entity_30331 left the game.
+[11:20:00] [Thread-11/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[11:20:00] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:42648] logged in with entity id 94001 at ([world]97.59829363193522, 70.0999984741211, 133.21090308364464)
+[11:20:13] [Server thread/INFO]: Entity_30331 issued server command: /gamemode
+[11:49:33] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[11:49:33] [Server thread/INFO]: Entity_30331 left the game.
+[11:51:17] [Thread-13/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[11:51:17] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:52412] logged in with entity id 253095 at ([world]74.91985365488901, 85.98953250377127, 128.28719746119575)
+[11:52:18] [Server thread/INFO]: Entity_30331 issued server command: /sethome Casa
+[11:52:24] [Server thread/INFO]: Entity_30331 issued server command: /home Casa
+[11:52:37] [Server thread/INFO]: Entity_30331 issued server command: /delhome Casa
+[11:55:14] [Server thread/INFO]: Entity_30331 lost connection: Timed out
+[11:55:14] [Server thread/INFO]: Entity_30331 left the game.
+[11:58:20] [Thread-14/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[11:58:20] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:55516] logged in with entity id 273328 at ([world]100.69999998807907, 69.0, 128.53686315702748)
+[12:00:22] [Server thread/INFO]: Entity_30331 issued server command: /shop
+[12:00:55] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[12:00:55] [Server thread/INFO]: Entity_30331 left the game.
+[12:02:39] [Thread-15/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[12:02:39] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:37262] logged in with entity id 286846 at ([world]91.13728273953235, 86.20000004768372, 131.4649002827735)
+[12:03:24] [Server thread/INFO]: Entity_30331 fell out of the world
+[12:05:30] [Server thread/INFO]: Entity_30331 issued server command: /sethome Mojang
+[12:05:40] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[12:05:40] [Server thread/INFO]: Entity_30331 left the game.
+[12:27:59] [Thread-17/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[12:28:00] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:54428] logged in with entity id 303287 at ([world]30.247304874805376, 78.10532909004856, 228.41416360676737)
+[12:32:52] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[12:32:52] [Server thread/INFO]: Entity_30331 left the game.
+[12:49:50] [Thread-19/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[12:49:50] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:50514] logged in with entity id 328969 at ([world]88.45930183895877, 72.36319666897126, 138.74485510563693)
+[12:59:04] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[12:59:04] [Server thread/INFO]: Entity_30331 left the game.
+[13:11:52] [Thread-21/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[13:11:52] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:49326] logged in with entity id 376205 at ([world]-72.49049783650827, 82.97196758092801, 178.64390015053306)
+[13:12:00] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[13:12:00] [Server thread/INFO]: Entity_30331 left the game.
+[16:10:27] [Thread-28/INFO]: UUID of player 6__Entity_3033 is e94ecda7-d734-3dd5-8ebf-568c87ae28cd
+[16:10:27] [Server thread/INFO]: 6__Entity_3033[/[0:0:0:0:0:0:0:1]:50862] logged in with entity id 377148 at ([world]57.5, 72.0, 262.5)
+[16:10:58] [Server thread/INFO]: 6__Entity_3033 lost connection: Login timed out!
+[16:10:58] [Server thread/INFO]: 6__Entity_3033 left the game.
+[16:10:58] [Server thread/WARN]: handleDisconnection() called twice
+[16:11:11] [Thread-29/INFO]: UUID of player Entity_30331 is 154e49b3-efe6-3052-8279-1c307ababeba
+[16:11:11] [Server thread/INFO]: Entity_30331[/[0:0:0:0:0:0:0:1]:35806] logged in with entity id 379799 at ([world]-72.49049783650827, 82.97196758092801, 178.64390015053306)
+[16:11:30] [Server thread/INFO]: Entity_30331 issued server command: /balance
+[16:11:43] [Server thread/INFO]: Entity_30331 issued server command: //deselect
+[16:11:48] [Server thread/INFO]: Entity_30331 issued server command: /bukkit:plugins
+[16:11:59] [Server thread/INFO]: Entity_30331 issued server command: /tpa Entity_30331
+[16:13:39] [Server thread/INFO]: Entity_30331 fell out of the world
+[16:15:55] [Server thread/INFO]: Entity_30331 lost connection: Disconnected
+[16:15:55] [Server thread/INFO]: Entity_30331 left the game.
