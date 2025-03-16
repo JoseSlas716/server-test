@@ -1,3 +1,4 @@
 #By changing the setting below to TRUE you are indicating your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
 #Sun Mar 16 00:46:05 UTC 2025
 eula=true
+/gamemode creative Entyti_30331
